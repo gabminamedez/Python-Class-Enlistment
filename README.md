@@ -1,25 +1,18 @@
-# Repository Title
+# Python Class Enlistment
 
 ## Description
-Put repository Description here.
+This Python project is a condensed interface of the class enlistment system of De La Salle University simulated in the command line. In this enlistment system, the user is presumed to be already logged in as a student where they can choose to (a) enlist a class, (b) drop a class, (c) view their classes, (d) view offered classes, and (e) exit.
 
 ## Project Directory Guide
-1. **/directory** is the page for ...
--  **/subdirectory** is the page for ...
--  **/subdirectory** is the page for ...
-2. **/directory** is the page for ...
--  **/subdirectory** is the page for ...
--  **/subdirectory** is the page for ...
-3. **/directory** is the page for ...
--  **/subdirectory** is the page for ...
--  **/subdirectory** is the page for ...
+1. **course.py** is a Python class file for Course objects. This describes the structure of a Course that could be taken, with properties such as a unique number, name, section, professor, units, capacity, and schedule.
+2. **student.py** is a Python class file for Student objects. This describes the structure of a Student that could enlist in courses, with properties such as a unique ID number, name, college, course, maximum number of units, subjects, and schedule. It also contains functions that involve student actions such as enlisting and dropping a class.
+3. **main.py** is the main Python file where the project will be run.
 
 ## Instructions for local machine use:
-1. Instruction #1
-2. Enter the command ```this command``` ...
-3. Instruction #3
+1. Download the files.
+2. ```cd``` to the directory where the files are located.
+3. Enter the command ```python main.py```. The project should be ready for use now in the command line.
  
 ## Project Notes
-1. Project Note #1
-2. Project Note #2
-3. Project Note #3
+1. This project was made for an assignment in the University organization DLSU COMET.
+2. This project does not encompass the whole enlistment process of De La Salle University.
