@@ -1,6 +1,4 @@
-# Python Class Enlistment
-
-## Description
+# python-class-enlistment
 This Python project is a condensed interface of the class enlistment system of De La Salle University simulated in the command line. In this enlistment system, the user is presumed to be already logged in as a student where they can choose to (a) enlist a class, (b) drop a class, (c) view their classes, (d) view offered classes, and (e) exit.
 
 ## Project Directory Guide
