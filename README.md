@@ -7,8 +7,8 @@ This Python project is a condensed interface of the **class enlistment system of
 3. `main.py` is the main Python file where the project will be run.
 
 ## Instructions for local machine use:
-1. Open the command line interface and clone this repository.
-2. `cd` to the directory of this repository.
+1. Clone this repository.
+2. Open the command line interface and `cd` to the directory of this repository.
 3. Enter the command `python main.py`. The project should now be ready for use in the command line.
  
 ## Project Notes
