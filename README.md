@@ -1,5 +1,5 @@
 # comet-enlistment
-This Python project is a condensed interface of the **class enlistment system of De La Salle University** simulated in the command line. In this enlistment system, the user is presumed to be already logged in as a student where they can choose to (a) enlist a class, (b) drop a class, (c) view their classes, (d) view offered classes, and (e) exit.
+This Python project is a condensed interface of the **class enlistment system of De La Salle University** simulated in the command line. In this system, the user is presumed to be already logged in as a student where they can choose to (a) enlist a class, (b) drop a class, (c) view their classes, (d) view offered classes, and (e) exit.
 
 ## Project Directory Guide
 1. `course.py` is a Python class file for Course objects. This describes the structure of a Course that could be taken, with properties such as a unique number, name, section, professor, units, capacity, and schedule.
@@ -12,5 +12,5 @@ This Python project is a condensed interface of the **class enlistment system of
 3. Enter the command `python main.py`. The project should now be ready for use in the command line.
  
 ## Project Notes
-1. This project was made for an assignment in the University organization **DLSU COMET**.
+1. This project was made for an assignment in the University organization **DLSU Center for Complexity and Emerging Technologies**.
 2. This project does not encompass the whole enlistment process of De La Salle University.
